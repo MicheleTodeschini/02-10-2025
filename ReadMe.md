@@ -10,17 +10,18 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 - Apro amazon
   - Cerco la lampada
-      - SE il budget me lo permette AND SE arriva in tempo, la compro
-      - ALTRIMENTI cerco altro
+    - SE il budget me lo permette AND SE arriva in tempo, la compro
+    - ALTRIMENTI cerco altro
 
-    - Continuo a scorrere
-      - Opto per una penna stilografica 
-        - SE il budget me lo permette AND SE arriva in tempo, la compro
-        - ALTRIMENTI cerco altro
+  - Opto per una penna stilografica 
+    - SE il budget me lo permette AND SE arriva in tempo, la compro
+    - ALTRIMENTI cerco altro
 
   - Vado sul sicuro
     - cerco un libro
     - SE arriva in tempo AND SE il budget me lo permette, lo compro
 
 
-- compro regalo
+- Compro regalo
+    - Aggiungo al carrello
+    - Confermo l'ordine
